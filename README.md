@@ -103,8 +103,9 @@ python run.py
 
 ## Documentation
 
-- docs/WathiqNet_Report.pdf
-- docs/WathiqNet.pptx
+
+- [Project Report (PDF)](docs/WathiqNet_Report.pdf)
+- [Project Presentation (PowerPoint)](docs/WathiqNet.pptx)
 
 ---
 
@@ -112,6 +113,8 @@ python run.py
 
 Malak Al-Faifi
 
-Information Technology Graduate (Cybersecurity Track)
+Information Technology Graduate
+Cybersecurity Track
 
 Jazan University
+Saudi Arabia
